@@ -1,7 +1,7 @@
 # Ruslan Degtiarov
 ## Contacts 
-
-  Phone: +375336232594 
+  <div>
+  Phone: +375336232594</div> 
   Email: ruslanipo03@gmail.com
 
 ## About Me
